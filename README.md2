@@ -1,0 +1,61 @@
+Atelier 4 – Classes et objets en Dart
+
+Cours : Programmation en Dart
+Outil utilisé : Visual Studio Code
+
+1. Présentation du travail
+
+Dans cet atelier, je travaille avec le langage Dart pour mettre en pratique les notions de classes et d'objets. Les exercices me permettent de comprendre comment organiser un programme et comment utiliser une classe pour créer des objets.
+
+2. Objectifs de l'atelier
+
+Les objectifs de ce travail sont les suivants :
+
+Comprendre le rôle d'une classe dans un programme.
+
+Déclarer des attributs et des méthodes.
+
+Créer des objets à partir d'une classe.
+
+Utiliser les méthodes pour effectuer différentes opérations.
+
+Pratiquer les notions de programmation orientée objet vues en cours.
+
+3. Environnement de travail
+
+Pour réaliser cet atelier, j'utilise les outils suivants :
+
+Dart : langage de programmation utilisé pour les exercices.
+
+Visual Studio Code : éditeur utilisé pour écrire et exécuter le code.
+
+Git : outil utilisé pour enregistrer les modifications du projet.
+
+GitHub : plateforme utilisée pour conserver et partager le travail.
+
+4. Organisation du projet
+
+Le projet contient les fichiers Dart réalisés pendant l'atelier ainsi que ce fichier README qui présente le travail.
+
+Chaque fichier sert à réaliser les exercices demandés dans le cadre du TP.
+
+5. Exécution du programme
+
+Pour exécuter un fichier Dart, il faut ouvrir le terminal dans le dossier du projet et utiliser la commande suivante :
+
+dart run act1.dart
+
+Cette commande permet de lancer le programme contenu dans le fichier act1.dart.
+
+6. Gestion du projet avec Git
+
+Pendant la réalisation du travail, j'utilise Git pour enregistrer les modifications apportées aux fichiers.
+
+Les commandes principales utilisées sont :
+
+git add .
+git commit -m "Ajout des fichiers de l'atelier 4"
+git push
+
+Cet atelier me permet de pratiquer Dart et de mieux comprendre le fonctionnement des classes et des objets. Les exercices réalisés m'aident à appliquer les notions vues en cours et à améliorer ma façon d'organiser mon code.
+
